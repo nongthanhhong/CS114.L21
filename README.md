@@ -11,6 +11,8 @@
 <a name="banthan"></a>
 ### 1. Giới thiệu bản thân:
 - Họ Tên: Nông Thanh Hồng
+- MSSV: 19521551
+- EMail: 19521551@gm.uit.edu.vn
 - Khoa Khoa Học Máy Tính - Ngành Khoa Học Máy Tính
 - Lớp: CS114.L21, HK2, 2020-2021
 
